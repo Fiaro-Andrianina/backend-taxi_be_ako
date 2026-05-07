@@ -61,8 +61,6 @@ INSTALLED_APPS = [
     'coeur.apps.CoreConfig',
     'comptes.apps.AccountsConfig',
     'transport.apps.TransportConfig',
-    'reservations.apps.BookingConfig',
-    'paiements.apps.PaymentsConfig',
 ]
 
 MIDDLEWARE = [
